@@ -1,6 +1,6 @@
 # Chrome extension for cyberbullying prevention.
 
-[Website: mkkaufmann.github.io/chihacks](https://mkkaufmann.github.io/chihacks)
+Website: [mkkaufmann.github.io/chihacks](https://mkkaufmann.github.io/chihacks)
 
 This extension replaces profane language on social media sites with other text to create a friendlier web environment.
 
