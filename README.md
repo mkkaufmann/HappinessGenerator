@@ -7,7 +7,7 @@ This extension replaces profane language on social media sites with other text t
 To setup the extension:
 
 [Download this zip file](https://github.com/mkkaufmann/HappinessGenerator/archive/master.zip)
-[Open Chrome Extensions](Chrome://extensions)
+[Open Chrome Extensions](chrome://extensions)
 Select "Developer Mode."
 Extract the files from the zip.
 Click "Load Unpacked Extension."
