@@ -8,11 +8,11 @@ To setup the extension:
 
 [Download this zip file](https://github.com/mkkaufmann/HappinessGenerator/archive/master.zip)
 
-[Open Chrome Extensions](chrome://extensions)
+Extract the files from the zip.
+
+[Open Chrome Extensions (type chrome://extensions in the address bar)](chrome://extensions)
 
 Select "Developer Mode."
-
-Extract the files from the zip.
 
 Click "Load Unpacked Extension."
 
