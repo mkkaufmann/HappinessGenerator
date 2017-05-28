@@ -1,0 +1,10 @@
+{
+    "manifest_version": 2,
+    "name": "Happiness Generator",
+    "version": "0.1",
+    "content_scripts": [
+        {
+            "matches": ["https://www.facebook.com/*", "https://www.twitter.com/*", "https://www.instagram.com/*", "https://www.google.com/*"],
+            "js": ["jquery-3.2.1.min 2.js", "content.js"]
+  }]
+}
